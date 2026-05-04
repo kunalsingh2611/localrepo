@@ -1,4 +1,0 @@
-Hi everyone 
-we are Python File I/O.
-using Java.
-I like programming in Java.
