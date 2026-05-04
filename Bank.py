@@ -58,4 +58,5 @@ if (x in data and y in data):
     else :
         print("THE INPUT WAS INVALID")
 else :
-    print("YOU ARE NOT ELIGIBLE FOR THE PARTICULAR TRANSACTION.")
+    print("YOU ARE NOT ELIGIBLE FOR THE TRANSACTION.")
+    
